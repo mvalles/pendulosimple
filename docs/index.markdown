@@ -28,4 +28,4 @@ También se ha habilitado una sección de [Discusiones][discusiones] donde se pu
 ### La Elaboración de Leyes, Teorias y Modelos
 
 [observación]: observacion.html
-[discusiones]: ./discussions
+[discusiones]: https://github.com/mvalles/pendulosimple/discussions
